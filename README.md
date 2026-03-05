@@ -54,12 +54,6 @@
 - [活动经历](#cn-activities)
 - [联系方式](#connect)
 
-### English TOC
-- [⭐ Featured Project Cards](#featured-project-cards)
-- [Core Directions](#en-core)
-- [Featured Projects (Direct Links)](#en-projects)
-- [Activities](#en-activities)
-- [Connect](#connect)
 
 ---
 
@@ -144,7 +138,7 @@
 <a id="cn-projects"></a>
 ### 🧩 代表项目（点击直达）
 
-#### 🤖 **UPAIRS-Agents** | Uncertainty-Aware Paragraph-Level Iterative Reflective Deep Search
+#### 🤖 **UPAIRS-Agents** | Uncertainty-Aware Paragraph-Level Iterative Reflective Deep Search | `优化Bettafish微舆`
 [**Version 2.0**](https://github.com/SuleynanAuir/UPAIRS-Agents) | 深度搜索 + Agents | 2026年2月
 
 **核心创新**：
@@ -163,8 +157,8 @@
 
 ---
 
-#### 🧾 **P-ADONIS** | Prior-Enhanced Attention Doc-OCR Network for Image2Structure
-[**Version 1.0**](https://github.com/SuleynanAuir/P-ADONIS) | OCR + 超分辨 + 文档结构化 | 实习工程项目 | 2025年10月
+#### 🧾 **P-ADONIS** | Prior-Enhanced Attention Doc-OCR Network for Image2Structure | `实习工程项目`
+[**Version 1.0**](https://github.com/SuleynanAuir/P-ADONIS) | OCR + 超分辨 + 文档结构化 | 2025年10月
 
 **问题**：OCR 在税务票据、合同中低质扫描、拍照文档的识别准确率低
 
@@ -184,7 +178,7 @@
 
 ---
 
-#### 🎬 **PEANUT** | Multimodal End2End Framework for Semantic Image2Video Understanding & Restoration
+#### 🎬 **PEANUT** | Multimodal End2End Framework for Semantic Image2Video Understanding & Restoration | `个人科研实践项目 2025`
 [**Version 3.0**](https://github.com/SuleynanAuir/PEANUT--Prompt-Enhanced-Ablation-with-Optical-Flow-Based-Neural-Unit) | 视频修复 + 深度学习 | 2025年
 
 **问题**：SAM2 (Meta, 2024) 框架长时序列的**记忆偏见积累**问题；轻量化部署需求
@@ -206,7 +200,7 @@
 
 ---
 
-#### 👁️ **Hateful Memes Detection & Innovation** | Facebook AI × NeurIPS 2020 Track
+#### 👁️ **Hateful Memes Detection & Innovation** | `Facebook AI × NeurIPS 2020 Track`
 **Team Competition Track** | 多模态语义理解 + 隐性恶意识别 | 2025年9月至今
 
 **问题**：社交媒体图文语义不一致、隐性指代、反讽式仇恨表达
@@ -226,7 +220,7 @@
 
 ---
 
-#### 🧠 **Clinical Brain Tumor Detection** | Optimized ML Framework for MRI Diagnosis
+#### 🧠 **Clinical Brain Tumor Detection** | `Brain Tumour Research Competition (Canada, 2023)`
 [**Project**](https://github.com/SuleynanAuir/Clinical-Brain-Tumor-Detection-Optimized-ML-Frame4MRI-Diagnosis) | 机器学习 + 医学影像 | 2024年
 
 **问题**：MRI脑肿瘤多分类中非典型小样本数据、病灶细粒度差异敏感性低
@@ -248,16 +242,6 @@
 
 ---
 
-#### 📚 **HuggingFace-TA-Material** | BERT-Centered NLP Training Framework
-[**Repository**](https://github.com/SuleynanAuir/HuggingFace-TA-Material) | NLP基础框架 | 教学与实践
-
-**内容**：
-- BERT预训练与微调完整流程
-- Hugging Face 生态系统应用
-- 模块化NLP处理pipeline设计
-- 文本分类、命名实体识别等任务实现
-
-**技术栈**：`Python` | `PyTorch` | `BERT` | `Hugging Face` | `NLP`
 
 ---
 
@@ -453,23 +437,6 @@ I care not only about benchmark scores, but also **reproducibility, explainabili
 - **Agent Engineering**: planning, reflection, retrieval augmentation, evaluation loops
 - **CV + NLP Integration**: OCR, classification, video processing, language reasoning
 - **Implementation**: Python, PyTorch ecosystem, experiment-driven iteration
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    alt="github stats"
-    height="185"
-    src="https://github-readme-stats.vercel.app/api?username=SuleynanAuir&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    alt="Top Langs"
-    height="185"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleynanAuir&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 ---
 
