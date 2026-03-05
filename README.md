@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Pytorch-111?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-111?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-111?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-111?style=flat-square&logo=huggingface&logoColor=white" />
 </p>
 
 <p align="center">
@@ -42,14 +41,7 @@
 
 ---
 
-🤝 Connect
 
-- GitHub: https://github.com/SuleynanAuir
-- Email Welcome to Connect 😊: 
-    - *Daily* suleynanaiur@gmail.com
-    - *Research & Academic* t330034027@mail.uic.edu.cn
-    - *Domestic* 2925795986@qq.com
-- LinkedIn: https://www.linkedin.com/in/aiur-suleynan-1a58872b9/
 
 
 
@@ -485,6 +477,10 @@ I care not only about benchmark scores, but also **reproducibility, explainabili
 ## 🤝 Connect
 
 - GitHub: https://github.com/SuleynanAuir
+- Email Welcome to Connect 😊: 
+    - *Daily* suleynanaiur@gmail.com
+    - *Research & Academic* t330034027@mail.uic.edu.cn
+    - *Domestic* 2925795986@qq.com
 - LinkedIn: https://www.linkedin.com/in/aiur-suleynan-1a58872b9/
 
 ---
