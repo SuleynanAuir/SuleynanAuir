@@ -76,7 +76,7 @@
       <p><b>🏆 Outcome</b><br/>解决内容幻觉问题（算法量化确定性达到 88%⭡）与高效tokens优化（最优配置下：单次深度搜索仅约 ¥0.1 💴），强化深度搜索算法中的推理稳定性、批判性、以及内容前后对应（证据一致性）</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🧾 <a href="https://github.com/SuleynanAuir/P-ADONIS">P-ADONIS | 实习工程项目优化</a></h3>
+      <h3>🧾 <a href="https://github.com/SuleynanAuir/P-ADONIS">P-ADONIS | 实习工程优化</a></h3>
       <p><b>🎯 Targeting</b><br/>OCR在企业税务票据、合同中低质扫描、拍照文档的识别准确率低 + 影响下游自动化表单处理</p>
       <p><b>✨ Highlight</b><br/>Prior-Enhanced Attention OCR for Structure Parsing + Structure-SR + Image2Structure Pipeline</p>
       <p><b>🔧 Stack</b><br/>
