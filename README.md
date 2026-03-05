@@ -1,15 +1,5 @@
 # 👋 Hi, This is Aiur Suleynan
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Agents-111?style=flat-square&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-111?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-111?style=flat-square&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multimodal-111?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Search-111?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytorch-111?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-111?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-111?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
 
 <p align="center">
   <b>🧑‍💻 AI Engineer • Agents / Computer Vision / NLP / Multimodal / Deep Search </b><br/>
@@ -39,7 +29,18 @@
   <img src="https://img.shields.io/badge/Focus-Multimodal%20Learning-1d4ed8?style=flat-square" />
 </p>
 
----
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agents-111?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-111?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multimodal-111?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Search-111?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytorch-111?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
 
 
 
