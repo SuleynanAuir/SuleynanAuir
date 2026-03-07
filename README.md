@@ -6,6 +6,11 @@
   Building grounded, explainable, and product-ready AI systems together.
 </p>
 
+
+<p align="center">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuleynanAuir?style=social"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/SuleynanAuir?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-22c55e?style=flat&logo=github&logoColor=white">
@@ -44,10 +49,9 @@
 
 
 
-
-
 ## 📚 TOC
-
+<!-- ![GitHub stars](https://img.shields.io/github/stars/SuleynanAuir?style=social)
+ -->
 ### 中文目录
 - [⭐ 精选项目卡片](#featured-project-cards)
 - [核心方向](#cn-core)
