@@ -95,7 +95,7 @@
       <p><b>🏆 Outcome</b><br/>提升文档图像内容抽取与结构化解析能力：通过优化文档文字&结构超分辨率技术，实现更高精度的文档理解，以及结构化文档内容提取（官方TextZoom资料源量化指标平均优化超5%⭡）</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🎬 <a href="https://github.com/SuleynanAuir/PEANUT--Prompt-Enhanced-Ablation-with-Optical-Flow-Based-Neural-Unit">PEANUT | 个人科研实践项目</a></h3>
+      <h3>🎬 <a href="https://github.com/SuleynanAuir/PEANUT--Prompt-Enhanced-Ablation-with-Optical-Flow-Based-Neural-Unit">PEANUT | 个人实践项目</a></h3>
       <p><b>🎯 Targeting</b><br/>解决原有 SAM2 (Meta, 2024) 框架“长时序列的记忆偏见积累”问题 + 轻量部署和用户Laptop配置友好型</p>
       <p><b>✨ Highlight</b><br/>Prompt-Enhanced + Conditional Filtering Memory Block + HSA + Optical-Flow Guide</p>
       <p><b>🔧 Stack</b><br/>
