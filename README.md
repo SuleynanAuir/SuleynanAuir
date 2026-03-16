@@ -68,16 +68,16 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 <a href="https://github.com/SuleynanAuir/UPAIRS-Agents">UPAIRS-Agents ｜ 优化BettaFish微舆分析 </a></h3>
-      <p><b>🎯 Targeting</b><br/>BettaFish微舆的深度搜索内容的关联性不稳定 + 前后内容矛盾 + RAG类检索增强的冲突与幻觉问题</p>
-      <p><b>✨ Highlight</b><br/>Uncertainty-aware + Dynamic Reflection Stress + Pressure-Driven + Reflective Deep-Search Agents</p>
+      <h3>🤖 <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">NEXUS「涌现」！从 NEXUS 开始 🚀 ｜ 基于mirofish架构深度优化 </a></h3>
+      <p><b>🎯 Targeting</b><br/>解决：MiroFish舆情/检索分析“正确废话、官话”、千人一面模板结论 + 内容时效性问题 + 高tokens、耗时问题 + 难以围绕用户真实关注点深度分析（模拟过程的重复无效推理）</p>
+      <p><b>✨ Highlight</b><br/>Attention Anchors + Data Augmentation + MultiSource High-Fidelity Retrieval + GraphRAG-Enhanced Digital Cognitive Twin (Canyon)</p>
       <p><b>🔧 Stack</b><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Agents-7c3aed?style=flat-square"/>
         <img src="https://img.shields.io/badge/Deep%20Search-success?style=flat-square"/>
         <img src="https://img.shields.io/badge/asyncio+aiohttp-orange?style=flat-square"/>
       </p>
-      <p><b>🏆 Outcome</b><br/>解决内容幻觉问题（算法量化确定性达到 88%⭡）与高效tokens优化（最优配置下：单次深度搜索仅约 ¥0.1 💴），强化深度搜索算法中的推理稳定性、批判性、以及内容前后对应（证据一致性）</p>
+      <p><b>🏆 Outcome</b><br/>从“泛化回答”→“用户独享认知推演”：先验锚点聚焦与多智能体协同，显著降低无效、重复推理，提升证据一致性与趋势可解释性；实现更快与更低成本的推理（项目口径：整体成本可降约40%~60%，分析时长可压缩至约1/3），支持政策、市场、舆论与研究多视角高保真决策模拟</p>
     </td>
     <td width="33%" valign="top">
       <h3>🧾 <a href="https://github.com/SuleynanAuir/P-ADONIS">P-ADONIS | 实习工程优化</a></h3>
