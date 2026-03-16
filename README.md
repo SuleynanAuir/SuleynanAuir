@@ -68,9 +68,9 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">NEXUS「涌现」！从 NEXUS 开始 🚀 ｜ 基于mirofish架构深度优化 </a></h3>
-      <p><b>🎯 Targeting</b><br/>解决：MiroFish舆情/检索分析“正确废话、官话”、千人一面模板结论 + 内容时效性问题 + 高tokens、耗时问题 + 难以围绕用户真实关注点深度分析（模拟过程的重复无效推理）</p>
-      <p><b>✨ Highlight</b><br/>Attention Anchors + Data Augmentation + MultiSource High-Fidelity Retrieval + GraphRAG-Enhanced Digital Cognitive Twin (Canyon)</p>
+      <h3>🤖 <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">NEXUS「涌现」！从 NEXUS 开始🚀 ｜ mrfish🐟架构深度优化 </a></h3>
+      <p><b>🎯 Targeting</b><br/>解决：MiroFish舆情分析“正确废话、官话”、千人一面模板结论 + 内容时效性问题 + 高tokens、耗时问题 + 难以围绕用户真实关注点深度分析（模拟过程重复无效的推理）</p>
+      <p><b>✨ Highlight</b><br/>Attn Anchors + Data Augmentation + MultiSource High-Fidelity Retrieval + GraphRAG-Enhanced Digital Cognitive Twin (Canyon)</p>
       <p><b>🔧 Stack</b><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Agents-7c3aed?style=flat-square"/>
