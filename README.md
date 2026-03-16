@@ -69,13 +69,15 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🤖 <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">NEXUS「涌现」！从 NEXUS 开始🚀 ｜ mrfish🐟架构深度优化 </a></h3>
-      <p><b>🎯 Targeting</b><br/>解决：MiroFish舆情分析“正确废话、官话”、千人一面模板结论 + 内容时效性问题 + 高tokens、耗时问题 + 难以围绕用户真实关注点深度分析（模拟过程重复无效的推理）</p>
-      <p><b>✨ Highlight</b><br/>Attn Anchors + Data Augmentation + MultiSource High-Fidelity Retrieval + GraphRAG-Enhanced Digital Cognitive Twin (Canyon)</p>
+      <p><b>🎯 Targeting</b><br/>解决：MiroFish舆情分析“正确的废话、官话”、千人一面模板结论 + 内容时效性问题 + 高tokens、耗时问题 + 难以围绕用户真实关注点深度分析（模拟过程重复无效的推理）</p>
+      <p><b>✨ Highlight</b><br/>Attn Anchors + Data Augmentation + MultiSource High-Fidelity Retrieval + GraphRAG-Enhanced Digital Cognitive Twin World(Canyon)</p>
       <p><b>🔧 Stack</b><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Agents-7c3aed?style=flat-square"/>
         <img src="https://img.shields.io/badge/Deep%20Search-success?style=flat-square"/>
-        <img src="https://img.shields.io/badge/asyncio+aiohttp-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Prior-Enhanced-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Prompt-Enhanced-0f766e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FineTuning-orange?style=flat-square"/>
       </p>
       <p><b>🏆 Outcome</b><br/>从“泛化回答”→“用户独享认知推演”：先验锚点聚焦与多智能体协同，显著降低无效、重复推理，提升证据一致性与趋势可解释性；实现更快与更低成本的推理（项目口径：整体成本可降约40%~60%，分析时长可压缩至约1/3），支持政策、市场、舆论与研究多视角高保真决策模拟</p>
     </td>
