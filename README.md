@@ -5,9 +5,6 @@
   <a href="#en-version"><img alt="English" src="https://img.shields.io/badge/🇺🇸English%20Version-Click-2563eb?style=for-the-badge"></a>
 </p>
 
-<p>
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuleynanAuir?style=social"/>
-</p>
 
 <p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
@@ -26,6 +23,11 @@
 <p align="center">
   <b>🧑‍💻 AI Engineer • Agents / Computer Vision / NLP / Multimodal / Deep Search </b><br/>
   Building grounded, explainable, and product-ready AI systems together.
+</p>
+
+
+<p align="center">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuleynanAuir?style=social"/>
 </p>
 
 <p align="center">
