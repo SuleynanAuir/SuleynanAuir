@@ -1,17 +1,15 @@
 # 👋 Hi, This is Aiur Suleynan
 
-
-<p align="center">
-  <b>🧑‍💻 AI Engineer • Agents / Computer Vision / NLP / Multimodal / Deep Search </b><br/>
-  Building grounded, explainable, and product-ready AI systems together.
+<p>
+  <a href="#cn-version"><img alt="中文" src="https://img.shields.io/badge/🇨🇳中文-点击-e11d48?style=for-the-badge"></a>
+  <a href="#en-version"><img alt="English" src="https://img.shields.io/badge/🇺🇸English%20Version-Click-2563eb?style=for-the-badge"></a>
 </p>
 
-
-<p align="center">
+<p>
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuleynanAuir?style=social"/>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-22c55e?style=flat&logo=github&logoColor=white">
   </a>
@@ -23,17 +21,12 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#cn-version"><img alt="中文" src="https://img.shields.io/badge/🇨🇳中文-点击-e11d48?style=for-the-badge"></a>
-  <a href="#en-version"><img alt="English" src="https://img.shields.io/badge/🇺🇸English%20Version-Click-2563eb?style=for-the-badge"></a>
-</p>
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Collaboration-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Multimodal%20Learning-1d4ed8?style=flat-square" />
+  <b>🧑‍💻 AI Engineer • Agents / Computer Vision / NLP / Multimodal / Deep Search </b><br/>
+  Building grounded, explainable, and product-ready AI systems together.
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agents-111?style=flat-square&logo=robotframework&logoColor=white" />
