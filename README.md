@@ -1,10 +1,5 @@
 # 👋 Hi, This is Aiur Suleynan
 
-<p>
-  <a href="#cn-version"><img alt="中文" src="https://img.shields.io/badge/🇨🇳中文-点击-e11d48?style=for-the-badge"></a>
-  <a href="#en-version"><img alt="English" src="https://img.shields.io/badge/🇺🇸English%20Version-Click-2563eb?style=for-the-badge"></a>
-</p>
-
 
 <p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
@@ -21,8 +16,8 @@
 
 
 <p align="center">
-  <b>🧑‍💻 AI Engineer • Agents / Computer Vision / NLP / Multimodal / Deep Search </b><br/>
-  Building grounded, explainable, and product-ready AI systems together.
+  <b>🧑‍💻 AI Engineering • Native Agentic / Computer Vision / NLP Application / Multimodal Understanding / Deep Search </b><br/>
+  🧪 Building grounded, explainable, and product-ready AI systems together. Welcome to Star abd Folk 👏
 </p>
 
 
@@ -31,18 +26,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agents-111?style=flat-square&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-111?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-111?style=flat-square&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multimodal-111?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Search-111?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytorch-111?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-111?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-111?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="assets/page/proj0.png" alt="NEXUS project" width="48%" height="320">
+  <img src="assets/page/proj1.png" alt="PEANUT video restoration project" width="48%" height="320"><br>
+  <img src="assets/page/tags/proj0-tags.svg" alt="NEXUS: Agents, NLP, Deep Search" width="48%">
+  <img src="assets/page/tags/proj1-tags.svg" alt="PEANUT: Computer Vision, Multimodal, PyTorch, Deep Learning" width="48%"><br><br>
+
+  <img src="assets/page/proj2.png" alt="Clinical brain tumor detection project" width="48%" height="320">
+  <img src="assets/page/proj3.png" alt="P-ADONIS OCR project" width="48%" height="320"><br>
+  <img src="assets/page/tags/proj2-tags.svg" alt="Brain Tumor Detection: Computer Vision, Machine Learning" width="48%">
+  <img src="assets/page/tags/proj3-tags.svg" alt="P-ADONIS: Computer Vision, NLP, Deep Learning" width="48%"><br><br>
+
+  <img src="assets/page/proj5.png" alt="ScratchOML-NIDS project" width="48%" height="320">
+  <img src="assets/page/proj6.png" alt="LLaMA Factory fine-tuning project" width="48%" height="320"><br>
+  <img src="assets/page/tags/proj5-tags.svg" alt="ScratchOML-NIDS: Machine Learning, Deep Learning" width="48%">
+  <img src="assets/page/tags/proj6-tags.svg" alt="LLaMA Factory: NLP, PyTorch, Deep Learning" width="48%">
 </p>
 
 
-
+<p>
+  <a href="#cn-version"><img alt="中文" src="https://img.shields.io/badge/🇨🇳中文-点击-e11d48?style=for-the-badge"></a>
+  <a href="#en-version"><img alt="English" src="https://img.shields.io/badge/🇺🇸English%20Version-Click-2563eb?style=for-the-badge"></a>
+</p>
 
 ## 📚 TOC
 <!-- ![GitHub stars](https://img.shields.io/github/stars/SuleynanAuir?style=social)
@@ -258,8 +262,20 @@
 <a id="cn-activities"></a>
 ### 🏅 活动经历
 
+- **UK VIOOH｜广告搜索推荐算法 Agentic 化转型与自动化工具开发｜2026年**<br>
+  推进广告搜索与推荐算法工作流的 Agentic 化转型，并参与自动化工具开发，提升算法研发、验证与交付流程的效率。
+
+- **北京中关村人工智能研究院（Zhongguancun Academic Institute）｜ASC 领域专业 Agent 算法研究｜2026年**<br>
+  开展 ASC 领域专业 Agent 算法研究，聚焦时序模型推演与少样本高效学习模型，探索面向垂直场景的智能分析与决策能力。
+
+- **NEXUS 社区｜启动人、维护者｜2025年**<br>
+  启动并维护 NEXUS 社区，开发社情舆论分析引擎，并将相关 Agent、深度搜索与信息推演能力拓展到更多实用领域。
+
 - **DataFun Conference 2025（北京 + 深圳）｜参会者｜2025年7月、11月**  
   参加 DataFunTalk 主办的 DACon 数智大会，系统化关注 Data + AI、大模型技术、数据智能与产业落地。重点学习大模型应用、搜索推荐系统、NLP、AI Agent、广告算法与数据架构，并了解 RAG、LLM 应用、ChatBI / Data Agent 等企业级方案。
+
+- **WAIC 世界人工智能大会｜参会者｜2024年、2025年**<br>
+  连续关注 WAIC 全球人工智能大会，重点跟踪多模态、AI Agent、AI Native 等技术方向及其产业应用与工程化实践。
 
 - **NVIDIA Technology Conference AI Summit（台湾）｜参会者｜2024年6月**  
   受邀参与 NVIDIA GTC 相关 AI 技术论坛与交流，重点关注 AI 在医学影像分析、三维重建、数字孪生等真实场景的应用；持续跟踪 VLM、GenAI、Robotics、Physical AI 等技术方向。
@@ -422,8 +438,20 @@ I care not only about benchmark scores, but also **reproducibility, explainabili
 <a id="en-activities"></a>
 ### 🏅 Activities
 
+- **VIOOH (UK) | Agentic Transformation of Advertising Search & Recommendation Algorithms / Automation Tooling | 2026**<br>
+  Advanced the Agentic transformation of advertising search and recommendation workflows and contributed to automation tools that improve algorithm development, validation, and delivery efficiency.
+
+- **Beijing Zhongguancun Artificial Intelligence Research Institute (Zhongguancun Academic Institute) | Specialized Agent Algorithm Research for ASC | 2026**<br>
+  Conducted specialized Agent algorithm research for ASC, focusing on temporal model simulation and data-efficient few-shot learning for intelligent analysis and decision-making in vertical domains.
+
+- **NEXUS Community | Initiator & Maintainer | 2025**<br>
+  Launched and maintained the NEXUS community, developed a social-intelligence and public-opinion analysis engine, and extended its Agent, deep-search, and information-simulation capabilities to additional practical domains.
+
 - **DataFun Conference 2025 (Beijing + Shenzhen) | Attendee | Jul & Nov 2025**  
   Participated in DACon by DataFunTalk with a structured focus on Data + AI, large models, data intelligence, and industrial deployment. Followed key topics including LLM applications, search/recommendation systems, NLP, AI Agents, ad algorithms, and data architecture, with practical exposure to RAG, ChatBI, and Data Agent solutions.
+
+- **World Artificial Intelligence Conference (WAIC) | Attendee | 2024 & 2025**<br>
+  Followed WAIC across two years, focusing on multimodal AI, AI Agents, AI-native architectures, and their industrial applications and engineering practices.
 
 - **NVIDIA Technology Conference AI Summit (Taiwan) | Attendee | Jun 2024**  
   Joined NVIDIA GTC-related AI technical sessions and exchanges, focusing on real-world AI applications in medical imaging, 3D reconstruction, and digital twins, while tracking VLM, GenAI, Robotics, and Physical AI trends.

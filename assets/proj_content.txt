@@ -1,0 +1,131 @@
+About
+Agent-You-MustKnows 是一个面向 AI Agent 领域的系统化学习与研究知识库，旨在整理 Agent 方向的重要论文、技术报告、经典方法与前沿探索。项目围绕 LLM-based Agent 的核心发展脉络，涵盖智能体基础理论、推理与规划机制、工具调用、记忆系统、多智能体协作、RAG+Agent、Agent 架构设计以及未来 Agentic AI 等关键方向。该项目不仅关注论文收集，更致力于构建从概念理解、技术演进到系统实践的完整知识体系，帮助研究者和开发者快速掌握 Agent 领域的重要思想、核心技术与发展趋势，探索从“能够生成文本的语言模型”到“具备感知、推理、行动与持续学习能力的智能体系统”的演进路径。
+
+github.com/SuleynanAuir/Agent-You-MustKnows
+Topics
+rag-pipeline agentic-ai harness-engineering agent-you-must-knows
+
+
+【CN】NEXUS（Networked Emergent X-agent Universe Simulator） 是一个面向复杂信息环境分析的多智能体 AI 框架，旨在通过多智能体协同与知识驱动推理，对现实世界不断演化的信息流进行深度理解与模拟。系统整合了领域适配微调模型、客制化深度搜索 Agents、用户注意力驱动 Agents以及数字孪生仿真环境 Canyon，构建了一个能够持续获取、组织并分析信息的智能系统。在该架构下，NEXUS 可以从多源信息中提取关键实体与关系，结合领域知识先验与用户关注锚点，对复杂事件、舆论动态与叙事演化进行多视角分析与推演。通过优化推理流程与 Agent 协作机制，系统在降低 tokens 消耗的同时保持较强的分析深度。
+
+github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight
+Topics
+nexus deep-search user-oriented agent-collaboration twin-worlds deep-insight
+
+
+Chronos-2 是一个用于时间序列预测的基础模型，基于 Chronos 和 Chronos-Bolt 构建。它提供了显著的能力改进，可以处理早期模型不支持的多种预测场景。支持的场景包括（1）单变量时间序列预测：经典的时间序列预测任务；（2）跨项目学习：利用多个相关时间序列的信息进行预；（3）多变量预测：同时预测多个相关目标变量（3）带协变量的预测：仅过去协变量：在预测时已知的历史协变量（如过去的天气数据） + 已知未来协变量：预测期间已知的协变量（如节假日、计划事件）
+
+github.com/SuleynanAuir/Amazon-TSChronos
+Topics
+time-series forecasting chronos covariance-estimation amazon-market
+
+
+OMNI本项目基于Tiktok, Instagram, 快手等流媒推荐系统的 OneRec 生成式推荐范式架构，探索推荐系统统一建模为序列生成与偏好对齐问题，通过 Semantic ID 实现多模态内容与用户行为的统一表示，并结合强化学习驱动的 Reward 机制进行端到端优化。在此基础上，引入生成式建模与上下文感知能力，实现从传统判别式推荐向生成式、可推理推荐系统的范式跃迁
+
+github.com/SuleynanAuir/OMNI-Rec/tree/main
+Topics
+moe ipa recommendation short-video kuaishou tiktok early-fusion onerec discrete-embedding
+
+
+About
+基于 UNSW-NB15 的双阶段贝叶斯融合入侵检测系统。从零手写 梯度下降 (GD)、SGD、Adam 等基础优化算法，并独立实现 逻辑回归、高斯朴素贝叶斯、决策树、多层感知机 (MLP) —— 无任何第三方深度学习框架。 系统采用 两阶段级联架构：Stage 1 二分类判定攻击/正常，Stage 2 九分类细分攻击类型，最终通过 贝叶斯后验概率融合 输出 10 类检测结果。在预处理中引入 数值清洗、偏度变换、类别降基及交互特征工程，并结合 分层重采样 缓解严重类别不平衡。训练支持早停与 L2 正则化。端到端评估涵盖 ROC/PR 曲线、10×10 混淆矩阵、Top‑K 置信度分析及误差案例诊断，最终 10 类 macro‑F1 达 0.44，所有优化与模型代码完全手写！
+
+github.com/SuleynanAuir/ScratchOML-NIDS
+Topics
+machine-learning bayesian-inference sgd-optimizer optimazation bayesian-fusion
+
+
+About
+VeFloodBN: 基于离散贝叶斯网络的意大利威尼托大区市镇级洪涝风险建模。模型融合人均GDP、人口密度、坡度、河网密度、降雨频率等 12 个节点，构建因果有向无环图（DAG）；采用最大似然估计学习条件概率表，通过结构校验、马尔可夫毯与活跃路径分析保证模型合理性。支持精确变量消元，并对比拒绝采样、似然加权与吉布斯 MCMC 等近似推理方法。连续变量经分位数离散化后，实现逐市镇批量后验概率推断，利用 GeoPandas 输出空间风险热力图。针对 Top‑N 风险排名引入分层/比例采样策略，结合 Jaccard 与 Overlap 指标评估结论稳健性；同时提供单因子边际效应、稀有证据下采样效率对比及条件独立可视化，兼具可解释性与推断鲁棒性。
+Topics
+bayesian-inference flood dag anomaly-detection markov-blanket
+
+
+About DRL-Basis-Project-v1
+This material describe the Q-function approximator for DQN/DDQN and the policy-value network used in PPO. Key components include experience replay and target network updates for DQN-based methods, and clipped objective with generalized advantage estimation for PPO.
+Topics
+ppo replay-buffer experience-replay dqn-pytorch ddqn-pyotrch q-function-approximation
+
+About DRL-Basis-Project-v2
+This is a compact, modular implementation of core Deep Reinforcement Learning (DRL) algorithms, designed for learning, experimentation, and reproducible research. The project is organized into two independent sections covering both policy gradient and actor-critic paradigms.
+Topics
+policy-gradient actor-critic ppo openai-gym-environment drl-pytorch a2c-agent gymnasium-environment
+
+
+About 
+PEANUT (Prompt-Enhanced Ablation with Optical Flow-Based Neural Unit) designed to enhance video restoration by combining spatial and temporal consistency with clarity optimization. The core innovation lies in Prompt-Guided Mask Self-Generation and leveraging optical flow-based neural units to generate high-fidelity video sequences
+
+github.com/SuleynanAuir/PEANUT--Prompt-Enhanced-Ablation-with-Optical-Flow-Based-Neural-Unit
+Topics
+video-processing optical-flow crossmodal sam2 prompt-enhanced
+
+
+About P-ADONIS
+P-ADONIS (Prior-enhanced Attention Document OCR Network for Image-to-Structure): This project integrates the Prior-Enhanced Attention text image super-resolution model (ours-PADNet) with an OCR pipeline to significantly improve text recognition quality for noisy or low-resolution PDFs.
+
+github.com/SuleynanAuir/P-ADONIS
+Topics
+computer-vision super-resolution ocr-recognition prior-enhanced text2structure
+
+
+About
+LLaMA Factory is an end-to-end LLM fine-tuning and deployment pipeline, integrating data augmentation & engineering, cloud-based training, and cloud data management. With one-click fine-tuning and local deployment, it enables rapid iteration of models while keeping your infrastructure flexible and secure. Perfect for enterprise-grade applications.
+
+github.com/SuleynanAuir/LLaMa-Factory-Fine-Tuning
+Topics
+fine-tuning autodl ollama llama-factory-pro easy-data
+
+
+
+About Distributed-Fine-Tuning-of-Qwen2.5-7B-as-HotelService-Master
+Hotel-domain conversational assistant using Qwen2.5-7B-Instruct, focusing on practical, reproducible fine-tuning. It supports SFT + LoRA for a stable baseline, SFT + QLoRA for 7B model training with 4-bit quantization under limited GPU memory, and DPO to enhance responses via human preference pairs
+
+github.com/SuleynanAuir/Distributed-Fine-Tuning-of-Qwen2.5-7B-as-HotelService-Master
+Topics
+distributed-computing lora fine-tuning sft dpo
+
+
+
+About WeiboPublics-SentimentBot-E2-FineTuning-Pipeline-of-Qwen3.5-0.6B-on-AutoDL-Cloud-Infrastrcture
+Weibo SentimentBot is built Qwen3.5-0.6B Fine-Tuning Based. It is trained through a complete fine-tuning pipeline on the AutoDL cloud computing infrastructure. Demonstrating a complete LLMs-Alignment training pipeline: starting from Qwen3.5-0.6B, through stages: SFT-Training, LoRA, and DPO preference optimization, the model gradually evolves fr
+
+github.com/SuleynanAuir/WeiboPublic-SentimentBot-E2-FineTuning-Pipeline-of-Qwen3.5-0.6B-on-AutoDL-Cloud-Infrastrcture
+Topics
+sentiment-polarity sft autodl dpo finetuning-llms qwen
+
+About CognitiveTemp-DeepSearch-Agents
+A powerful multi-agent reasoning system with temperature-driven cognitive styles. Control search behavior from rigorous academic analysis to creative exploration through simple configuration.
+
+github.com/SuleynanAuir/CognitiveTemp-DeepSearch-Agents
+Topics
+multi-agent temperature-control deep-search cognitive-modeling adaptive-reasoning
+
+
+About Clinical Brain Tumor Detection: Optimized Machine Learning Framework Using Basic Python Libraries
+This project builds an optimized ML framework for brain tumor detection using only basic libraries (NumPy, Pandas, Matplotlib). It implements SVM, MLP, XGBoost, KNN, and logistic regression, along with interpolation, rotation, folding, and HOG features, enabling accurate MRI analysis without advanced libraries.
+Topics
+ml optimization-algorithms mri-brain small-sample-learning
+
+
+About
+UPARIS-DS (Uncertainty-Aware Paragraph-Level Iterative Reflective Deep Search Agents) is an uncertainty-aware paragraph-level iterative reflective framework that enhances deep search agents through adaptive refinement and structured evidence synthesis.
+
+github.com/SuleynanAuir/UPAIRS-Agents
+Topics
+reflection uncertainty-quantification agents llm-inference deepsearch-toolkit hallucination-mitigation
+
+
+About
+This project focuses on social media multimodal hate detection, addressing challenges such as image–text semantic inconsistency, implicit references, and sarcastic/ironic expressions. We develop a CLIP + LLMs based framework for multimodal representation learning and semantic alignment. Prompt Engineering (PE) optimizes LLM output, while multi-LLM
+
+github.com/SuleynanAuir/Hateful-Image-Project
+Topics
+gnn-algorithm crossmodal llm-inference hateful-meme-detection
+
+
+About
+This project explores predictive customer analytics in the e-commerce industry using the Customer Personality Analysis Dataset. By combining exploratory data analysis, supervised learning, and unsupervised segmentation techniques, it aims to uncover hidden patterns in user demographics, purchasing behaviors, and marketing responses.
+
+github.com/SuleynanAuir/Customer-Analytics-Modeling-Churn-and-Value-in-E-Commerce
+Topics
+machine-learning data-mining customer-segmentation customer-analytics
