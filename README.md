@@ -26,20 +26,24 @@
 </p>
 
 <p align="center">
-  <img src="assets/page/proj0.png" alt="NEXUS project" width="48%" height="320">
-  <img src="assets/page/proj1.png" alt="PEANUT video restoration project" width="48%" height="320"><br>
-  <img src="assets/page/tags/proj0-tags.svg" alt="NEXUS: Agents, NLP, Deep Search" width="48%">
-  <img src="assets/page/tags/proj1-tags.svg" alt="PEANUT: Computer Vision, Multimodal, PyTorch, Deep Learning" width="48%"><br><br>
+  <img src="assets/page/proj0.png" alt="NEXUS project" width="100%"><br>
+  <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">
+    <img src="assets/page/tags/proj0-tags.svg?v=2" alt="NEXUS: Agents, NLP, Deep Search, LLMs, Fine-Tuning, OASIS-Simulation — Open project repository" width="100%">
+  </a>
+</p>
 
-  <img src="assets/page/proj2.png" alt="Clinical brain tumor detection project" width="48%" height="320">
-  <img src="assets/page/proj3.png" alt="P-ADONIS OCR project" width="48%" height="320"><br>
-  <img src="assets/page/tags/proj2-tags.svg" alt="Brain Tumor Detection: Computer Vision, Machine Learning" width="48%">
-  <img src="assets/page/tags/proj3-tags.svg" alt="P-ADONIS: Computer Vision, NLP, Deep Learning" width="48%"><br><br>
+<p align="center">
+  <img src="assets/page/proj1.png" alt="PEANUT video restoration project" width="100%"><br>
+  <a href="https://github.com/SuleynanAuir/PEANUT--Prompt-Enhanced-Ablation-with-Optical-Flow-Based-Neural-Unit">
+    <img src="assets/page/tags/proj1-tags.svg?v=2" alt="PEANUT: Computer Vision, Multimodal, PyTorch, Deep Learning, Optical Flow, SAM2, Semantic Understanding — Open project repository" width="100%">
+  </a>
+</p>
 
-  <img src="assets/page/proj5.png" alt="ScratchOML-NIDS project" width="48%" height="320">
-  <img src="assets/page/proj6.png" alt="LLaMA Factory fine-tuning project" width="48%" height="320"><br>
-  <img src="assets/page/tags/proj5-tags.svg" alt="ScratchOML-NIDS: Machine Learning, Deep Learning" width="48%">
-  <img src="assets/page/tags/proj6-tags.svg" alt="LLaMA Factory: NLP, PyTorch, Deep Learning" width="48%">
+<p align="center">
+  <img src="assets/page/proj2.png" alt="Clinical brain tumor detection project" width="100%"><br>
+  <a href="https://github.com/SuleynanAuir/Clinical-Brain-Tumor-Detection-Optimized-ML-Frame4MRI-Diagnosis">
+    <img src="assets/page/tags/proj2-tags.svg?v=2" alt="Clinical Brain Tumor Detection: Computer Vision, Machine Learning, MRI, Classification, Feature Engineering — Open project repository" width="100%">
+  </a>
 </p>
 
 
