@@ -1,6 +1,7 @@
 # 👋 Hi, This is Aiur Suleynan
 
 
+### 📊 GitHub Stats
 <p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-22c55e?style=flat&logo=github&logoColor=white">
@@ -13,6 +14,18 @@
   </a>
 </p>
 
+- GitHub: [Github](https://github.com/SuleynanAuir)
+- Project: [Repositories](https://github.com/SuleynanAuir?tab=repositories)
+- Email 1 🇨🇳 ZhongGuanCun Artificial Intelligence Institution (中关村人工智能研究院): [l-lmh@zgci.ac.cn](l-lmh@zgci.ac.cn)
+- Email 2 🇬🇧 VIOOH-DOOH (户外广告推荐SSP): [li.minghao@viooh.com](li.minghao@viooh.com)
+- Email 3 👨‍💻 Personal-Usage: [suleynanaiur@gmail.com](suleynanaiur@gmail.com)
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuleynanAuir&theme=github&v=2" />
+</p>
+
 
 
 <p align="center">
@@ -21,9 +34,7 @@
 </p>
 
 
-<p align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/SuleynanAuir?style=social"/>
-</p>
+### 🎉 GitHub Project
 
 <p align="center">
   <img src="assets/page/proj0.png" alt="NEXUS project" width="100%"><br>
