@@ -33,7 +33,7 @@
 
 ## 🎉 GitHub Project：Wellcome to Fork and Star... Let's build 🤗
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/page/proj0.png" alt="NEXUS project" width="100%"><br>
   <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">
     <img src="assets/page/tags/proj0-tags.svg?v=2" alt="NEXUS: Agents, NLP, Deep Search, LLMs, Fine-Tuning, OASIS-Simulation — Open project repository" width="100%">
@@ -52,9 +52,14 @@
   <a href="https://github.com/SuleynanAuir/Clinical-Brain-Tumor-Detection-Optimized-ML-Frame4MRI-Diagnosis">
     <img src="assets/page/tags/proj2-tags.svg?v=2" alt="Clinical Brain Tumor Detection: Computer Vision, Machine Learning, MRI, Classification, Feature Engineering — Open project repository" width="100%">
   </a>
+</p> -->
+
+<p align="center">
+  <img src="assets/page/portfolio_web_page.png" alt="project" width="100%"><br>
+  <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">
+    <img src="assets/page/tags/proj0-tags.svg?v=2" alt="NEXUS: Agents, NLP, Deep Search, LLMs, Fine-Tuning, OASIS-Simulation — Open project repository" width="100%">
+  </a>
 </p>
-
-
 
 ## 🏅 Activities
 
