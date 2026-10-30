@@ -1,4 +1,4 @@
-# 👋 Hi, This is Aiur Suleynan
+## 👋 Hi, This is Aiur Suleynan
 
 <p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
@@ -46,9 +46,6 @@
 
 <p align="center">
   <img src="assets/page/portfolio_web_page.png" alt="project" width="100%"><br>
-  <a href="https://github.com/SuleynanAuir/NEXUS-Navigating-Emergent-X-agent-Universe-Simulator-with-Unprecedented-Insight">
-    <img src="assets/page/tags/proj0-tags.svg?v=2" alt="NEXUS: Agents, NLP, Deep Search, LLMs, Fine-Tuning, OASIS-Simulation — Open project repository" width="100%">
-  </a>
 </p>
 
 ## 🏅 Activities
