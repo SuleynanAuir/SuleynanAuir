@@ -4,9 +4,6 @@
   <a href="https://github.com/SuleynanAuir?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-22c55e?style=flat&logo=github&logoColor=white">
   </a>
-  <a href="#featured-project-cards">
-    <img alt="Featured Cards" src="https://img.shields.io/badge/Featured%20Cards-Open-f59e0b?style=flat&logo=readme&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/aiur-suleynan-1a58872b9/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
@@ -15,19 +12,12 @@
 <!-- - Project: [Repositories](https://github.com/SuleynanAuir?tab=repositories) -->
 - Email 1 🇨🇳 ZhongGuanCun Artificial Intelligence Institution (中关村人工智能研究院): [l-lmh@zgci.ac.cn](l-lmh@zgci.ac.cn)
 - Email 2 🇬🇧 VIOOH-DOOH (户外广告推荐SSP): [li.minghao@viooh.com](li.minghao@viooh.com)
-- Email 3 👨‍💻 Personal-Usage: [suleynanaiur@gmail.com](suleynanaiur@gmail.com)
-
-
+<p align="center">
+  <b>🧑‍💻 AI Engineering • Agentic / Computer Vision / NLP、LLMs / Multimodals /  Welcome to Star + Folk 👏 </b><br/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuleynanAuir&theme=github&v=2" />
-</p>
-
-
-
-<p align="center">
-  <b>🧑‍💻 AI Engineering • Native Agentic / Computer Vision / NLP Application / Multimodal Understanding / Deep Search </b><br/>
-  🧪 Building grounded, explainable, and product-ready AI systems together. Welcome to Star abd Folk 👏
 </p>
 
 
