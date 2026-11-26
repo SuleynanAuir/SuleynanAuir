@@ -45,7 +45,7 @@
 </p> -->
 
 <p align="center">
-  <img src="assets/page/portfolio_web_page.png" alt="project" width="100%"><br>
+  <img src="assets/liminghao.png" alt="project" width="100%"><br>
 </p>
 
 ## 🏅 Activities
