@@ -1,4 +1,4 @@
-# 👋 Hi, This is Minghao LI (Aiur)
+# 👋 Hi, This is Minghao LI (Suleynan Aiur 😊 also)
 
 <p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
