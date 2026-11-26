@@ -1,4 +1,4 @@
-# 👋 Hi, This is Aiur Suleynan
+# 👋 Hi, This is Minghao LI (Aiur)
 
 <p>
   <a href="https://github.com/SuleynanAuir?tab=repositories">
@@ -10,8 +10,8 @@
 </p>
 
 <!-- - Project: [Repositories](https://github.com/SuleynanAuir?tab=repositories) -->
-- Email 1 🇨🇳 ZhongGuanCun Artificial Intelligence Institution (中关村人工智能研究院): [l-lmh@zgci.ac.cn](l-lmh@zgci.ac.cn)
-- Email 2 🇬🇧 VIOOH-DOOH (户外广告推荐SSP): [li.minghao@viooh.com](li.minghao@viooh.com)
+- Email 1 🇨🇳 ZhongGuanCun Artificial Intelligence Institution (National-Lab): [l-lmh@zgci.ac.cn](l-lmh@zgci.ac.cn)
+- Email 2 🇬🇧 VIOOH-DOOH (PDOOH-SSP): [li.minghao@viooh.com](li.minghao@viooh.com)
 <p align="center">
   <b>🧑‍💻 AI Engineering • Agentic / Computer Vision / NLP、LLMs / Multimodals /  Welcome to Star + Folk 👏 </b><br/>
 </p>
@@ -50,10 +50,10 @@
 
 ## 🏅 Activities
 
-- **Beijing Zhongguancun Artificial Intelligence Research Institute (Zhongguancun Academic Institute) | Specialized Agent Algorithm Research for ASC | 2026**<br>
+- **🇨🇳 Beijing Zhongguancun Artificial Intelligence Research Institute (Zhongguancun Academic Institute) | Specialized Agent Algorithm Research for ASC | 2026**<br>
   Conducted specialized Agent algorithm research for ASC, focusing on temporal model simulation and data-efficient few-shot learning for intelligent analysis and decision-making in vertical domains.
 
-- **VIOOH (UK) | Agentic Transformation of Advertising Search & Recommendation Algorithms / Automation Tooling | 2026**<br>
+- **🇬🇧 VIOOH (UK) | Agentic Transformation of Advertising Search & Recommendation Algorithms / Automation Tooling | 2026**<br>
   Advanced the Agentic transformation of advertising search and recommendation workflows and contributed to automation tools that improve algorithm development, validation, and delivery efficiency.
   
 - **NEXUS Community | Initiator & Maintainer | 2025**<br>
@@ -88,7 +88,7 @@
 - GitHub: https://github.com/SuleynanAuir
 - Email Welcome to Connect 😊: 
     - *Daily* suleynanaiur@gmail.com
-    - *Research & Academic* t330034027@mail.uic.edu.cn
+    - *Research & Academic* t330034027@mail.bnbu.edu.cn
     - *Domestic* 2925795986@qq.com
 - LinkedIn: https://www.linkedin.com/in/aiur-suleynan-1a58872b9/
 
